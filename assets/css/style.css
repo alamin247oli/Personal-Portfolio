@@ -336,6 +336,15 @@ main {
   border-radius: 20px;
 }
 
+.my-img img{
+  border-radius: 20%;
+};
+
+.info-content .name{
+  text-decoration-color: aliceblue;
+}
+
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
